@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0a631f9-b9f5-4bd6-9c94-d5a08a7fb215" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Essential Coding Interview Practice 11.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solution03 .java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solution04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solution05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -98,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564521423388</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="04">
+      <created>1564536560813</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1564536560813</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -136,7 +138,8 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="01" />
     <MESSAGE value="03" />
-    <option name="LAST_COMMIT_MESSAGE" value="03" />
+    <MESSAGE value="04" />
+    <option name="LAST_COMMIT_MESSAGE" value="04" />
   </component>
   <component name="masterDetails">
     <states>
